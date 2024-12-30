@@ -1,0 +1,10 @@
+{
+  "keys": [
+	"justhammers:netherite_destructor_hammer",
+	"justhammers:netherite_hammer",
+	"justhammers:netherite_impact_hammer",
+	"justhammers:netherite_reinforced_hammer",
+	"justhammers:netherite_reinforced_impact_hammer"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_netherite"
+}

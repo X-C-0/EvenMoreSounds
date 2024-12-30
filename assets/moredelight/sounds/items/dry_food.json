@@ -1,0 +1,11 @@
+{
+  "keys": [
+	"moredelight:bread_slice",
+	"moredelight:chicken_salad",
+    "moredelight:potato_salad",
+	"moredelight:sliced_bread"
+  ],
+  "pitch": 1.76,
+  "soundEvent": "minecraft:block.crop.break",
+  "volume": 1.0
+}

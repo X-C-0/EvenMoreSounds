@@ -1,0 +1,10 @@
+{
+  "keys": [
+	"justhammers:iron_destructor_hammer",
+	"justhammers:iron_hammer",
+	"justhammers:iron_impact_hammer",
+	"justhammers:iron_reinforced_hammer",
+	"justhammers:iron_reinforced_impact_hammer"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_iron"
+}

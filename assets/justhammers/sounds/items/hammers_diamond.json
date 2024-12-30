@@ -1,0 +1,10 @@
+{
+  "keys": [
+    "justhammers:diamond_destructor_hammer",
+	"justhammers:diamond_hammer",
+	"justhammers:diamond_impact_hammer",
+	"justhammers:diamond_reinforced_hammer",
+	"justhammers:diamond_reinforced_impact_hammer"
+  ],
+  "soundEvent": "minecraft:item.armor.equip_diamond"
+}

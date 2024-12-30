@@ -1,0 +1,9 @@
+{
+  "keys": [
+    "justhammers:destructor_core",
+	"justhammers:impact_core",
+	"justhammers:reinforced_core",
+	"justhammers:reinforced_impact_core"
+  ],
+  "soundEvent": "minecraft:block.metal.break"
+}

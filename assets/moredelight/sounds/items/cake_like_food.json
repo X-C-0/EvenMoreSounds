@@ -1,0 +1,25 @@
+{
+  "keys": [
+    "moredelight:omelette",
+	"moredelight:chicken_sandwich_with_egg_and_tomato",
+	"moredelight:egg_with_bacon_sandwich",
+	"moredelight:hamburger_with_cheese",
+	"moredelight:hamburger_with_egg",
+	"moredelight:loaded_hamburger",
+	"moredelight:porkchop_sandwich",
+	"moredelight:simple_hamburger",
+	"moredelight:steak_sandwich",
+	"moredelight:tomato_sandwich",
+	"moredelight:toast_with_blueberries",
+	"moredelight:toast_with_cheese",
+	"moredelight:toast_with_chocolate",
+	"moredelight:toast_with_egg",
+	"moredelight:toast_with_glow_berries",
+	"moredelight:toast_with_honey",
+	"moredelight:toast_with_peanut_butter",
+	"moredelight:toast_with_sweet_berries"
+  ],
+  "pitch": 2.0,
+  "soundEvent": "minecraft:block.wool.place",
+  "volume": 0.5
+}
